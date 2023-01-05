@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "405640747700",
+    "project_id": "plantapp-f2f90",
+    "storage_bucket": "plantapp-f2f90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405640747700:android:634bedff755e5b9f3515e1",
+        "android_client_info": {
+          "package_name": "com.example.plant_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405640747700-2su62uvpl4hcqdt5ftaeck3ieoc421d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSeSRl7dAwLqygt3NGSYccuQqsyAc28bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405640747700-2su62uvpl4hcqdt5ftaeck3ieoc421d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
